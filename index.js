@@ -9,8 +9,8 @@
  /*======================================
  =            Modulo Express            =
  ======================================*/
- var app = require("./app");
-var port = process.env.PORT || 1234
+ const app = require("./app");
+const port = process.env.PORT || 1234
 
 
 
